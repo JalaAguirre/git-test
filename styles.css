@@ -1,8 +1,12 @@
 body {
     background-color: pink;
-    font-family: Arial, sans-serif;
+    font-family: Times New Roman, sans-serif;
     text-align: center;
+    font-style: italic;
+    color: gray;
 }
 h1 {
     color: whitesmoke;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 50px;
 }
